@@ -1,1 +1,1 @@
-console.log("version origin amend");
+console.log("version clone");
